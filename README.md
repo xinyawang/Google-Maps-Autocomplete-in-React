@@ -2,7 +2,6 @@
 
 ******* PLEASE STAR MY REPO TO SUPPORT ME 🙏 ******
 
-Please follow me 🙏 on [twitter](https://twitter.com/imranhsayed) and github
 
 ## Description :clipboard:
 > Demo App for Autocomplete Location Search, Draggable marker and Infobox using Google Maps API and React .
@@ -29,7 +28,7 @@ GoogleMapsAPI = 'xxxxx';
 
 ## Installation Instructions :wrench:
 
-1. Clone the repo using `git clone https://github.com/imranhsayed/google-maps-in-react`
+1. Clone the repo using `git clone https://github.com/xinyawang/Google-Maps-Autocomplete-in-React`
 2. `cd google-maps-in-react`
 3. `npm install`
 4. `cd client`
